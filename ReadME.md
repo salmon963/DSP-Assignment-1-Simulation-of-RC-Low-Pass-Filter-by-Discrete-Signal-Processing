@@ -350,6 +350,37 @@ $$
    $$
 
 ---
+## Problem 7
+### 繪圖後比較
+File1為未經過濾波，File2為經過濾波
+DIFF_fs16000_f3000：
+![DIFF_fs16000_f3000_L1.0_amplitude_comparison](https://hackmd.io/_uploads/Hkxez42Gye.png)
+DIFF_fs16000_f400：
+![DIFF_fs16000_f400_L1.0_amplitude_comparison](https://hackmd.io/_uploads/SJegMVhGJl.png)
+DIFF_fs16000_f100：
+![DIFF_fs16000_f100_L1.0_amplitude_comparison](https://hackmd.io/_uploads/rJ1lz4hM1x.png)
+DIFF_fs8000_f3000：
+![DIFF_fs8000_f3000_L1.0_amplitude_comparison](https://hackmd.io/_uploads/HkxlMN2G1g.png)
+DIFF_fs8000_f400：
+![DIFF_fs8000_f400_L1.0_amplitude_comparison](https://hackmd.io/_uploads/rJexGV2zyg.png)
+DIFF_fs8000_f100：
+![DIFF_fs8000_f100_L1.0_amplitude_comparison](https://hackmd.io/_uploads/Hy1xf42Mke.png)
+DIFF_fs4000_f3000：
+![DIFF_fs4000_f3000_L1.0_amplitude_comparison](https://hackmd.io/_uploads/BylezE2fJe.png)
+DIFF_fs4000_f400：
+![DIFF_fs4000_f400_L1.0_amplitude_comparison](https://hackmd.io/_uploads/HkllfE3M1l.png)
+DIFF_fs4000_f100：
+![DIFF_fs4000_f100_L1.0_amplitude_comparison](https://hackmd.io/_uploads/B1JxMEnM1e.png)
+經過濾波後的振幅小於未經過濾波的振幅
+### -3db討論
+當幅度（Amplitude）下降到最大值的 $\frac{1}{\sqrt{2}}$ 時，功，這個點被稱為-3dB點。
+$$
+-3\text{dB} = 20 \cdot \log_{10}\left(\frac{A_{\text{output}}}{A_{\text{input}}}\right) = -3
+$$
+根據以上的比較圖可以發現部分的圖可以看出暫態的表現
+
+
+
 
 
 
