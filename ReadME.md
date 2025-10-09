@@ -1,16 +1,5 @@
 # 手寫過程
-![image](https://hackmd.io/_uploads/SJnb3hnbkx.png)
-![image](https://hackmd.io/_uploads/rkzzh3hZkg.png)
-![image](https://hackmd.io/_uploads/rJVt23n-Je.png)
-![image](https://hackmd.io/_uploads/r1iz332bJg.png)
-![image](https://hackmd.io/_uploads/rJ6h22nZyx.png)
-![image](https://hackmd.io/_uploads/SkgA22nWyx.png)
-![image](https://hackmd.io/_uploads/HkFWpnh-1e.png)
-![image](https://hackmd.io/_uploads/HyhHah3byl.png)
-![image](https://hackmd.io/_uploads/H17I62hZyx.png)
-![image](https://hackmd.io/_uploads/BJ58622W1x.png)
-![image](https://hackmd.io/_uploads/r1eP622-kx.png)
-![image](https://hackmd.io/_uploads/r1Cdp22b1e.png)
+https://hackmd.io/@chaokai/2025dsp-assignment-1
 
 # Problem Solutions
 
